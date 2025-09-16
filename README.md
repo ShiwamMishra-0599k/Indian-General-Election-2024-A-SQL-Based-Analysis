@@ -1,4 +1,4 @@
-# Indian-General-Election-2024-A-SQL-Based-Analysis
+# Indian General Election-2024 | A SQL Based Analysis
 This project presents an in-depth analysis of the 2024 Indian General Election results, executed entirely through SQL. Hosted in a SQL Server Management Studio 21 environment, the analysis involved a series of targeted queries to transform raw electoral data into meaningful insights. The project moves from a high-level overview of the national mandate down to a granular, constituency-level examination of voting patterns, candidate performance, and alliance dynamics. It demonstrates a strong command of SQL for data manipulation, aggregation, and complex querying on a large, real-world dataset.
 
 #Tech Stack
