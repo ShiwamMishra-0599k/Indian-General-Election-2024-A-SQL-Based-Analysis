@@ -1,16 +1,16 @@
 # Indian General Election-2024 | A SQL Based Analysis
 This project presents an in-depth analysis of the 2024 Indian General Election results, executed entirely through SQL. Hosted in a SQL Server Management Studio 21 environment, the analysis involved a series of targeted queries to transform raw electoral data into meaningful insights. The project moves from a high-level overview of the national mandate down to a granular, constituency-level examination of voting patterns, candidate performance, and alliance dynamics. It demonstrates a strong command of SQL for data manipulation, aggregation, and complex querying on a large, real-world dataset.
 
-#Tech Stack
+# Tech Stack
 - SQL (Structured Query Language): The core technology for all data processing and analysis. The project utilizes a variety of SQL techniques, including multi-table joins, aggregate functions (COUNT, SUM), CASE statements, subqueries, and Common Table Expressions (CTEs).
 
 - SQL Server Management Studio (SSMS) 21: The primary integrated environment used for database management and query execution.
 
-#Data Source
+# Data Source
 
 Source: (https://drive.google.com/drive/folders/1TqnJbkpT_UfMekRxKeFQbYk0-WQ5r8vG?usp=sharing)
 
-#Problem Statements Addressed
+# Problem Statements Addressed
 The analysis was structured to answer a series of key questions about the election outcome:
 
 - I. National and Alliance-Level Performance
@@ -40,7 +40,7 @@ Using a CTE, who were the winning and runner-up candidates in each constituency 
 
 What were the aggregate statistics for a state like Maharashtra, including the total number of seats, candidates, parties, and the complete breakdown of EVM and postal votes?
 
-#Key Insights and Impact
+# Key Insights and Impact
 This project effectively demonstrates how to leverage SQL for comprehensive data storytelling. The queries provide a multi-layered view of the election, highlighting:
 
 - Macro-Level Trends: A clear picture of the national mandate and the performance of major political alliances.
